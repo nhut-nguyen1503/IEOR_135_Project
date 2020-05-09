@@ -1,10 +1,10 @@
 # Crime in San Francisco
 
-The issue of rising criminal activity in the city of San Francisco is truly alarming. It takes a lot of time and resources for the San Francisco police department ditributes staffs effectively to combat with this issue as well as for homebuyers to find an afforable and safety place. The project develops a simple and effective dashboard,Safehouse, that allows a potential user to quickly access the machine learning enhanced forecast to their desired level of geographical granularity.
+The issue of rising criminal activity in the city of San Francisco is truly alarming. It takes a lot of time and resources for the San Francisco police department ditributes staffs effectively to combat with this issue as well as for homebuyers to find an afforable and safety place. The project develops a simple and effective dashboard, Safehouse, that allows a potential user to quickly access the machine learning enhanced forecast to their desired level of geographical granularity.
 
 ## Getting Started
 
-The dataset can be dowloaded from DataSF website by using this link:
+The dataset can be dowloaded from website https://datasf.org/ as the link below:
 
 https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 
