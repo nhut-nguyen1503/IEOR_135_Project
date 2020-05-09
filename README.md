@@ -46,8 +46,7 @@ Once all the packages are installed, the UI can be run. From your Anaconda comma
 ```sh
 voila
 ```
-A window on your default internet broswer should open where you can navigate to the directory with your Jupyter notebook files. Select the Dashboard_UI.ipynb. A Voila loading symbol will appear as the notebook is being rendered. Shortly after the interactive Voila interface should open.
-
+A window on your default internet broswer should open where you can navigate to the directory with your Jupyter notebook files. Select the Dashboard_UI.ipynb. A Voila loading symbol will appear as the notebook is being rendered. Shortly after the interactive Voila interface should open. A video demo of our project can be found at [UI Demo].
 
 [ipywidgets installation]: <https://ipywidgets.readthedocs.io/en/latest/user_install.html>
 [plotly installation]: <https://plotly.com/python/getting-started/?utm_source=mailchimp-jan-2015&utm_medium=email&utm_campaign=generalemail-jan2015&utm_term=bubble-chart>
@@ -58,3 +57,4 @@ A window on your default internet broswer should open where you can navigate to 
 [statsmodels.tsa.holtwinters]: <https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html>
 [sklearn.ensemble]: <https://scikit-learn.org/stable/modules/ensemble.html>
 [geopy.geocoders]: <https://scikit-learn.org/stable/modules/ensemble.html>
+[UI Demo]: <https://www.youtube.com/watch?v=i-V_IjnNgLA>
