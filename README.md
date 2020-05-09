@@ -1,9 +1,23 @@
-# SF Crime README
+# Crime in San Francisco
+The issue of rising criminal activity in the city of San Francisco is truly alarming. It takes a lot of time and resources for the San Francisco police department ditributes staffs effectively to combat with this issue as well as for homebuyers to find an afforable and safety place. The project develops a simple and effective dashboard,Safehouse, that allows a potential user to quickly access the machine learning enhanced forecast to their desired level of geographical granularity.
+
+## Getting Started
+
+The dataset can be dowloaded from website https://datasf.org/ as the link below:
+https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 
 ## Installing Python Libraries
 #### Anaconda
 If anaconda is not yet installed (conda commands cannot be run), follow the instructions to install anaconda here: https://docs.conda.io/en/latest/miniconda.html
 
+#### Visualization
+To install wordcloud package with conda run one of the following:
+```sh
+Linux-64 conda install -c conda-forge wordcloud
+Win-32: conda install -c conda-forge/label/gcc7 wordcloud
+OS-64: conda install -c conda-forge/label/cf201901 wordcloud
+Win-64: conda install -c conda-forge/label/cf202003 wordcloud
+```
 #### Models and Forecasting Packages
 Once anaconda is installed (conda commands can already be run), install the following packages:
 
@@ -57,3 +71,8 @@ A window on your default internet broswer should open where you can navigate to 
 [sklearn.ensemble]: <https://scikit-learn.org/stable/modules/ensemble.html>
 [geopy.geocoders]: <https://geopy.readthedocs.io/en/stable/>
 [UI Demo]: <https://www.youtube.com/watch?v=i-V_IjnNgLA>
+
+## Authors
+* **Chad Wakamiyan**
+* **Anna Stepnova**
+* **Nhut Nguyen**
