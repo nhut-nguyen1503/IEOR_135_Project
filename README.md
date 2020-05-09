@@ -52,9 +52,8 @@ A window on your default internet broswer should open where you can navigate to 
 [plotly installation]: <https://plotly.com/python/getting-started/?utm_source=mailchimp-jan-2015&utm_medium=email&utm_campaign=generalemail-jan2015&utm_term=bubble-chart>
 [voila installation]: <https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93>
 [statsmodels.tsa.seasonal]: <https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html>
-[statsmodels.tsa.statespace.sarimax]: <https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html>
-[statsmodels.tsa.seasonal]: <https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html>
+[statsmodels.tsa.statespace.sarimax]: <https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html>
 [statsmodels.tsa.holtwinters]: <https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html>
 [sklearn.ensemble]: <https://scikit-learn.org/stable/modules/ensemble.html>
-[geopy.geocoders]: <https://scikit-learn.org/stable/modules/ensemble.html>
+[geopy.geocoders]: <https://geopy.readthedocs.io/en/stable/>
 [UI Demo]: <https://www.youtube.com/watch?v=i-V_IjnNgLA>
