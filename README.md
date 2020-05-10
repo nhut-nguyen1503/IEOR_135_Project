@@ -10,7 +10,7 @@ https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historic
 
 ## Installing Python Libraries
 #### Anaconda
-If anaconda is not yet installed (conda commands cannot be run), follow the instructions to install anaconda here: https://docs.conda.io/en/latest/miniconda.html
+If Anaconda is not yet installed (conda commands cannot be run), follow the instructions to install Anaconda here: https://docs.conda.io/en/latest/miniconda.html
 
 #### Visualization
 To install wordcloud package with conda run one of the following:
