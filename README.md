@@ -4,10 +4,10 @@ The issue of rising criminal activity in the city of San Francisco is truly alar
 
 ## Getting Started
 
-The dataset can be dowloaded from website https://datasf.org/ at the link below. Note: Github will only allow 25MB upload file. However, the crime dataset is 525MB and after compression it is still up to 131MB, so it must be downloaded and moved into the repository with these Jupyter Notebook files to run the code. 
+The dataset can be downloaded from https://datasf.org/ at the link below. Note: Github will only allow 25MB file uploads. However, the crime dataset is 525MB and after compression it is still 131MB, so a copy must be downloaded and moved into the local repository with these Jupyter Notebook files to run the code. 
 1. Go to https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 2. Click <i>Export</i> and then select <i>CSV</i> as the file type.
-3. Once the CSV file is downloaded move it into the repository with these Jupyter Notebook files on local computer.
+3. Once the CSV file is downloaded, move it into the repository with these Jupyter Notebook files on your local computer.
 4. Make sure the CSV file is named <code> Police_Department_Incident_Reports__Historical_2003_to_May_2018.csv </code> in order for the data to be read into the Jupyter Notebook files correctly.
 
 ## Installing Python Libraries
