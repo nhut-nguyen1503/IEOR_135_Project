@@ -8,7 +8,7 @@ The dataset can be dowloaded from website https://datasf.org/ at the link below.
 1. Go to https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 2. Click <i>Export</i> and then select <i>CSV</i> as the file type.
 3. Once the CSV file is downloaded move it into the repository with these Jupyter Notebook files on local computer.
-4. Make sure the CSV file is named <code> 'Police_Department_Incident_Reports__Historical_2003_to_May_2018.csv' </code> in order for the data to be read into the Jupyter Notebook files correctly.
+4. Make sure the CSV file is named <code> Police_Department_Incident_Reports__Historical_2003_to_May_2018.csv </code> in order for the data to be read into the Jupyter Notebook files correctly.
 
 ## Installing Python Libraries
 #### Anaconda
@@ -64,7 +64,7 @@ Once all the packages are installed, the UI can be run. From your Anaconda comma
 ```sh
 voila
 ```
-A window on your default internet broswer should open where you can navigate to the directory with your Jupyter notebook files. Select the Dashboard_UI.ipynb. A Voila loading symbol will appear as the notebook is being rendered. Shortly after the interactive Voila interface should open. A video demo of our project can be found at [UI Demo].
+A window on your default internet broswer should open where you can navigate to the directory with your Jupyter notebook files. Select the <code>Dashboard_UI.ipynb </code>. A Voila loading symbol will appear as the notebook is being rendered. Shortly after the interactive Voila interface should open. A video demo of our project can be found at [UI Demo].
 
 [ipywidgets installation]: <https://ipywidgets.readthedocs.io/en/latest/user_install.html>
 [plotly installation]: <https://plotly.com/python/getting-started/?utm_source=mailchimp-jan-2015&utm_medium=email&utm_campaign=generalemail-jan2015&utm_term=bubble-chart>
