@@ -23,7 +23,7 @@ OS-64: conda install -c conda-forge/label/cf201901 wordcloud
 Win-64: conda install -c conda-forge/label/cf202003 wordcloud
 ```
 #### Models and Forecasting Packages
-Once anaconda is installed (conda commands can already be run), install the following packages:
+Once Anaconda is installed (conda commands can already be run), install the following packages:
 
 
 | Use | Python Library |
