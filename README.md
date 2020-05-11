@@ -4,9 +4,9 @@ The issue of rising criminal activity in the city of San Francisco is truly alar
 
 ## Getting Started
 
-The dataset can be dowloaded from website https://datasf.org/ at the link below. Note: Github will only allow 25MB upload file. However, the crime dataset is 525MB and after compression it is still up to 131MB, so it must be downloaded and copied into the repository with these Jupyter Notebook files in order to run the code. 
-
-https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
+The dataset can be dowloaded from website https://datasf.org/ at the link below. Note: Github will only allow 25MB upload file. However, the crime dataset is 525MB and after compression it is still up to 131MB, so it must be downloaded and moved into the repository with these Jupyter Notebook files to run the code. 
+1. Go to https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
+2. Click <i>Export</i> and then s
 
 ## Installing Python Libraries
 #### Anaconda
