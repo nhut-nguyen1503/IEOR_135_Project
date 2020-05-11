@@ -34,9 +34,11 @@ Once anaconda is installed (conda commands can already be run), install the foll
 |  Random Forest, Gradient Boosting, Adaboosting Model | [sklearn.ensemble] |
 |  Location Search | [geopy.geocoders] |
 
-The packages can  be installed using a command line prompt similar to the example provided below.
+The packages can  be installed using a the following command line prompts in Anaconda terminal.
 ```sh
-conda install [package name]
+conda install -c conda-forge statsmodels
+conda install -c anaconda scikit-learn
+conda install -c conda-forge geopy
 ```
 
 ## Installing the User Interface
